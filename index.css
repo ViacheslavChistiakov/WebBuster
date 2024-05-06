@@ -852,6 +852,11 @@
 }
 
 @media screen and (max-width: 1300px) {
+    
+    body {
+        overflow-x: hidden;
+    }
+
     .cart-wrapp {
         position: relative;
         left: 5%;
@@ -859,6 +864,12 @@
 }
 
 @media screen and (max-width: 1200px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+
     .cart-wrapp {
         position: relative;
         left: 5%;
@@ -866,6 +877,12 @@
 }
 
 @media  screen and (max-width: 1000px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+
     .cart-wrapp {
         position: relative;
         left: 4%;
@@ -873,6 +890,10 @@
 }
 
 @media screen and (max-width: 470px) { 
+
+    body {
+        overflow-x: hidden;
+    }
 
     .check-view {
         position: relative;
@@ -912,6 +933,12 @@
 }
 
 @media screen and (max-width: 450px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+
     .header {
         width: 70%;
         position: sticky;
@@ -953,12 +980,21 @@
 }
 
 @media screen and (max-width: 440px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
     .contact {
         display: none;
     }
 }
 
 @media screen and (max-width: 435px) {
+
+    body {
+        overflow-x: hidden;
+    }
 
     .header {
         width: 70%;
@@ -1050,6 +1086,10 @@
 }
 
 @media  screen and (max-width: 415px) {
+
+    body {
+        overflow-x: hidden;
+    }
 
     .header {
         width: 50%;
@@ -1179,6 +1219,12 @@
 }
 
 @media screen and (max-width: 410px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+
     .feedback-form {
         position: relative;
         right: 25%;
@@ -1214,6 +1260,10 @@
 }
 
 @media screen and (max-width: 391px) {
+
+    body {
+        overflow-x: hidden;
+    }
 
     .header {
         width: 70%;
